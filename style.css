@@ -88,7 +88,7 @@ nav a:hover {
             rgba(0,0,0,0.75),
             rgba(0,0,0,0.75)
         ),
-        url("images/welding-bg.jpg");
+       url("welding-bg.jpg")
 
     background-size: cover;
     background-position: center;
